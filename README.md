@@ -1,4 +1,4 @@
-[Members_Human Resources_05262024_154954.csv](https://github.com/Jtalbert15/Creating-a-group-and-sharing-Files/files/15448750/Members_Human.Resources_05262024_154954.csv)# Creating-a-group-and-sharing-Files
+# Creating-a-group-and-sharing-Files
 In this lab we are going to create a group and share a file with that group
 
 To start lets navigate to the admin center

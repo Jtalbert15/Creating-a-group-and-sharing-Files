@@ -1,5 +1,10 @@
 # Creating-a-group-and-sharing-Files
-In this lab we are going to create a group and share a file with that group
+
+<h1>Summary</h1>
+
+In this lab we are going to create a Microsoft 365 group. A M365 group will allow us to create a Teams channel for the group, a shared email account, and the ability to share files.
+
+<h1>Step 1 Creating a M365 Group</h1>
 
 To start lets navigate to the admin center
 
@@ -54,6 +59,8 @@ Once you have reviewed your selections click next
 Now we can check to see we have created a Human Resources group
 
 <img width="922" alt="Screenshot 2024-05-26 at 3 51 11 PM" src="https://github.com/Jtalbert15/Creating-a-group-and-sharing-Files/assets/66844406/ec7d6d6c-d5f3-469b-8261-85a2b898988d">
+
+<h1>Sharing Files</h1>
 
 Now lets create a folder and share it with our newly created human resources group. To do this navigate to OneDrive
 
